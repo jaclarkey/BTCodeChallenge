@@ -2,9 +2,11 @@ How to compile:
 
 From Terminal (Linux) g++ -o CodeChallenge src/Main.cpp src/Hierarchy.cpp
 
+Add the data files into the directory BTCodeChallenge/files/
  
 Assumptions:
 — The data file contains the data in the correct columns.
+— The data file is located in the directory /files.
 
 How it works:
 
